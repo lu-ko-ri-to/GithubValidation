@@ -1,0 +1,16 @@
+Trainee Name: Nderu Lawrence
+Python Syntax Score: 88.0
+Problem Solving Score: 72.0
+Mini Project Score: 90.0
+Total Score: 250.0
+Average Score: 83.33333333333333
+Performance Grade: Excellent
+Completion Status: Competent
+Trainee Name: michael kitang'asi
+Python Syntax Score: 110.0
+Problem Solving Score: 120.0
+Mini Project Score: -22.0
+Total Score: 208.0
+Average Score: 69.33333333333333
+Performance Grade: Good
+Completion Status: Competent
