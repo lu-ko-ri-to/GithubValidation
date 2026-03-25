@@ -14,3 +14,12 @@ Total Score: 208.0
 Average Score: 69.33333333333333
 Performance Grade: Good
 Completion Status: Competent
+Trainee Name: Maria Clara
+Python Syntax Score: 0.0
+Problem Solving Score: 50.0
+Mini Project Score: 99.0
+Total Score: 149.0
+Average Score: 49.666666666666664
+Performance Grade: Needs Improvement
+Completion Status: Not yet Competent
+====================================
